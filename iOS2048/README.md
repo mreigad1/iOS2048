@@ -1,0 +1,3 @@
+Matthew Reigada
+
+Upon launching app, game will start.  Blue tiles control shift direction (north, east, south, west) for shifting tile values.  Orange tiles are inert, and currently have no effect.  Green Tiles are an added game mechanic outside normal scope of 2048 game.  Pressing green tiles will select random location on board and zero out that location.  Green tiles are single-use and become inert/orange after being used.  The intent of green tiles is the player only uses these if gridlocked since these run the risk of destroying valuable tiles.
